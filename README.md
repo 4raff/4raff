@@ -54,12 +54,8 @@
 
 ---
 
----
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4raff&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4raff&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
