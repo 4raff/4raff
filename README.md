@@ -52,7 +52,9 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
 
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -64,3 +66,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4raff&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
