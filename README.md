@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmad Raffi Arasy</h1>
-<h3 align="center">Student of Telkom University</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4raff&label=Profile%20views&color=0e75b6&style=flat" alt="4raff" />
