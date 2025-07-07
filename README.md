@@ -39,7 +39,7 @@
 <div align="center">
   <h2>🚀 About Me</h2>
   <p>
-    🎯 Passionate Full-Stack Developer<br/>
+    🎯 Passionate Everything Developer<br/>
     💻 Always learning new technologies<br/>
     🌟 Open to collaboration on exciting projects<br/>
     📫 Let's connect and build something amazing!
@@ -69,6 +69,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 
 <br/>
@@ -120,7 +121,11 @@
 
 <div align="center">
   <h3>🐍 Watch my contributions get eaten by a snake!</h3>
-  <img src="https://github.com/4raff/4raff/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4raff/4raff/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4raff/4raff/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4raff/4raff/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
