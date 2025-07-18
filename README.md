@@ -60,11 +60,8 @@ My goal is to become a cybersecurity professional focusing on **ethical hacking*
 ## 🌱 Projects I'm Working On
 
 <div align="center">
-  <a href="https://github.com/4raff/cyberscan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=4raff&repo=cyberscan&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/4raff/secure-auth-laravel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=4raff&repo=secure-auth-laravel&theme=tokyonight" />
+  <a href="https://github.com/4raff/mantacore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=4raff&repo=mantacore&theme=tokyonight" />
   </a>
 </div>
 
@@ -113,14 +110,14 @@ My goal is to become a cybersecurity professional focusing on **ethical hacking*
   <a href="https://linkedin.com/in/4raff" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:araffiarsy@student.telkomuniversity.ac.id" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" title="Email" />
   </a>
   <a href="https://instagram.com/araffiarsy" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" title="araffiarsy" />
   </a>
-  <a href="https://4raff.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" title="Dev Blog" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=discord" title="mmahmutt" />
   </a>
 </div>
 
