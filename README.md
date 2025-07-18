@@ -20,7 +20,7 @@ My goal is to become a cybersecurity professional focusing on **ethical hacking*
 
 ## 🎓 Education
 
-- 📚 Bachelor's in Informatics Engineering at Telkom University
+- 📚 Bachelor's in Informatics at Telkom University
 - 🛡️ Self-learning cybersecurity through online courses, CTFs, and hands-on labs
 - 💻 Working on side projects to strengthen practical skills
 
