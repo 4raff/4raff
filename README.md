@@ -95,16 +95,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4raff&show_icons=true&theme=tokyonight&count_private=true" alt="4raff's GitHub Stats" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4raff&theme=tokyonight" alt="4raff's GitHub Streak" height="200" />
-</p>
-
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
   <h3>Thanks for visiting!</h3>
