@@ -1,102 +1,151 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+4Raff!;Welcome+to+my+GitHub!" alt="Welcome Animation" />
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=4raff&label=Visitors&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/4raff?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;+I'm+4Raff!;Informatics+Student;Aspiring+Cybersecurity+Professional!" alt="Typing Animation" />
+</div>
 
-  <h3>🌐 Let's Connect</h3>
-  <p>
-    <a href="https://instagram.com/araffiarsy" title="Instagram">
-      <img src="https://skillicons.dev/icons?i=instagram" height="30" />
-    </a>
-    <a href="https://www.linkedin.com/in/ahmad-arasy-b81024340/" title="LinkedIn">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-    </a>
-    <a href="#" title="Discord: mmahmutt">
-      <img src="https://skillicons.dev/icons?i=discord" height="30" />
-    </a>
-  </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge" alt="Focus: Cybersecurity">
+  <img src="https://img.shields.io/badge/Status-Student-green?style=for-the-badge" alt="Status: Student">
+  <img src="https://img.shields.io/badge/Open_to-Learning_Opportunities-orange?style=for-the-badge" alt="Open to Learning">
 </div>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎯 Passionate Everything Developer  
-- 💻 Always learning new tech  
-- 🤝 Open to collaborations  
-- 📫 Let’s build something cool together!
-
----
-
-### 🧠 Languages I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=go" title="Go" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=c" title="C" />
-  <img src="https://skillicons.dev/icons?i=cs" title="C#" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-</p>
+Hi, I'm **Raffi**, an **Informatics student** with a strong passion for **Cybersecurity**.  
+I'm currently building my skills in both development and security while pursuing my degree.  
+My goal is to become a cybersecurity professional focusing on **ethical hacking**, **penetration testing**, and **secure application development** 🔐
 
 ---
 
-### 🎨 Frontend Stack
+## 🎓 Education
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=react" title="React.js" />
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
-  <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
-</p>
+- 📚 Bachelor's in Informatics Engineering at Telkom University
+- 🛡️ Self-learning cybersecurity through online courses, CTFs, and hands-on labs
+- 💻 Working on side projects to strengthen practical skills
 
 ---
 
-### 🔧 Backend Frameworks
+## ⚒️ Skills & Tools I'm Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
-  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
-  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />
-  <img src="https://skillicons.dev/icons?i=go" title="Gin / Go" />
-  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,java,spring,py,flask,bash,git,github,mysql,mongo,linux,vscode,postman,&perline=9" alt="Tech Stack">
+</div>
+
+<div align="center">
+  <sub>Constantly expanding my technical toolkit!</sub>
+</div>
 
 ---
 
-### 💾 Tools & Databases
+## 🔐 Cybersecurity Interests
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />
-</p>
+- 🛡️ Network Security & Penetration Testing
+- 📦 Web Application Security
+- 🔍 Vulnerability Assessment
+- 🧠 CTF Challenges
+- 🔒 Secure Coding Practices
+
+---
+
+## 📚 Currently Learning
+
+- 🔬 Python for Security Scripting
+- ☁️ Basic Network Security Concepts
+- 🔐 Web Vulnerability Scanning
+- 💻 Linux Administration
+
+---
+
+## 🌱 Projects I'm Working On
+
+<div align="center">
+  <a href="https://github.com/4raff/cyberscan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=4raff&repo=cyberscan&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/4raff/secure-auth-laravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=4raff&repo=secure-auth-laravel&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🎯 Completed Overthewire Learning Paths:
+  - Bandit
+  - Natas
+
+- 🎯 Completed PicoCTF Learning Paths:
+  - Basic networking
+  - Basic web vuln
+  - etc
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4raff&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4raff&layout=compact&theme=tokyonight" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4raff&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🛠️ Cybersecurity Learning Resources I Recommend
+
+- 🌐 [TryHackMe](https://tryhackme.com)
+- 🧩 [HackTheBox](https://hackthebox.eu)
+- 📚 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- 📝 [OWASP](https://owasp.org)
+- 💻 [PicoCTF](https://picoctf.org)
+- 🔓 [OverTheWire](https://overthewire.org)
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/4raff" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
+  </a>
+  <a href="mailto:yourmail@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" title="Email" />
+  </a>
+  <a href="https://instagram.com/araffiarsy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
+  </a>
+  <a href="https://4raff.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" title="Dev Blog" />
+  </a>
+</div>
+
+---
+
+## 🧠 Fun Facts
+
+<details>
+  <summary>Click to Expand</summary>
+
+- 🐧 Learning a new Linux command every day
+- 🎮 Enjoy solving puzzle games that require logical thinking
+- 📖 Fascinated by cybersecurity news and incident reports
+- 💭 Building a home lab to practice security concepts
+
+</details>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
-  <h3>Thanks for visiting!</h3>
-  <em>Feel free to say hi — I’m always happy to connect 😊</em>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quote" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4raff&color=blue" alt="Profile Views" />
+</p>
