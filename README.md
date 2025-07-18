@@ -90,7 +90,7 @@
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Copilot" width="40" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />
 </p>
 
 ---
