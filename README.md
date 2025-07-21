@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge" alt="Focus: Cybersecurity">
+  <img src="https://img.shields.io/badge/Anjay-Mabar-blue?style=for-the-badge" alt="Focus: Cybersecurity">
   <img src="https://img.shields.io/badge/Status-Student-green?style=for-the-badge" alt="Status: Student">
   <img src="https://img.shields.io/badge/Open_to-Learning_Opportunities-orange?style=for-the-badge" alt="Open to Learning">
 </div>
